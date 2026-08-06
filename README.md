@@ -29,8 +29,3 @@ acme-website-development/
 ├── images/
 └── assets/
 ```
-
-
-## Author
-
-Afra Mohamed
